@@ -1,2 +1,16 @@
-x
-xxxxxxxxxxxxxxx
+<head>
+    <title>SPEEDTEST</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<style type="text/css">
+body {
+background-color: black;
+overflow: hidden;
+margin: 0;
+  }
+</style>
+</head>
+
+<body>
+<iframe src="https://dhorez.github.io/en/red.html" width="100%" height="100%" scrolling="no" frameborder="0"></iframe>
+</body>
+</html>
